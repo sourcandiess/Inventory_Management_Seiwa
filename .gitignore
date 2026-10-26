@@ -1,0 +1,24 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# NuGet packages
+packages/
+
+# Temporary files
+*.pdb
+*.cache
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
